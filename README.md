@@ -81,10 +81,26 @@ Implemented using **Singleton, Factory, and Observer Patterns**.
 
 ---
 
-##  Tech Stack  
-- **Language**: Java  
-- **Concepts**: OOP, Design Patterns, Console-based Applications  
+## 🛠️ Tech Stack  
+
+**Programming Language**  
+- **Java** → The primary language used for implementing the project. Java's OOP principles and robust ecosystem support the design patterns and architecture used here.  
+
+**JDK Version**  
+- **JDK 17** → The project is developed using Java Development Kit (JDK) version 17.  
+
+**Build and Execution**  
+- `javac` → Java Compiler, used to compile the source code into bytecode.  
+- `java` → Executes the compiled bytecode.  
+
+**Version Control**  
+- **Git** → Used for version control, allowing tracking of changes, collaboration, and management of the codebase.  
 
 ---
+
+## 📞 Contact Information  
+
+- **Gmail**: [rohitprakashh27@gmail.com](mailto:rohitprakashh27@gmail.com)  
+- **GitHub**: [Rohit-Prakash-27](https://github.com/Rohit-Prakash-27)  
 
 
