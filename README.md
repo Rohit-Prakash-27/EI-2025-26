@@ -13,7 +13,7 @@ The goal of this project is to:
 
 I implemented **2 use cases for each category** of design patterns.  
 
-### 🔹 Behavioral Patterns  
+###  Behavioral Patterns  
 1. **Memento Pattern – Grid Game with Undo**  
    - Player moves in a grid using keyboard keys.  
    - Pressing `z` undoes the last move (restores previous state).  
@@ -26,7 +26,7 @@ I implemented **2 use cases for each category** of design patterns.
 
 ---
 
-### 🔹 Creational Patterns  
+###  Creational Patterns  
 1. **Factory Pattern – Ride Booking Platform**  
    - Users can book **Auto**, **Car**, or **Bike**.  
    - Factory creates the appropriate ride object based on input.  
@@ -38,7 +38,7 @@ I implemented **2 use cases for each category** of design patterns.
 
 ---
 
-### 🔹 Structural Patterns  
+###  Structural Patterns  
 1. **Adapter Pattern – Game Input Compatibility**  
    - Game accepts only controller input.  
    - Adapter maps **keyboard keys (WASD)** to **controller inputs**.  
@@ -81,7 +81,7 @@ Implemented using **Singleton, Factory, and Observer Patterns**.
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 **Programming Language**  
 - **Java** → The primary language used for implementing the project. Java's OOP principles and robust ecosystem support the design patterns and architecture used here.  
@@ -98,7 +98,7 @@ Implemented using **Singleton, Factory, and Observer Patterns**.
 
 ---
 
-## 📞 Contact Information  
+##  Contact Information  
 
 - **Gmail**: [rohitprakashh27@gmail.com](mailto:rohitprakashh27@gmail.com)  
 - **GitHub**: [Rohit-Prakash-27](https://github.com/Rohit-Prakash-27)  
