@@ -9,7 +9,7 @@ The goal of this project is to:
 
 ---
 
-## 📌 Exercise 1 – Design Pattern Demonstrations  
+##  Exercise 1 – Design Pattern Demonstrations  
 
 I implemented **2 use cases for each category** of design patterns.  
 
@@ -51,24 +51,24 @@ I implemented **2 use cases for each category** of design patterns.
 
 ---
 
-## 📌 Exercise 2 – Astronaut Daily Schedule Organizer  
+##  Exercise 2 – Astronaut Daily Schedule Organizer  
 
 A **console-based application** that manages astronaut schedules.  
 Implemented using **Singleton, Factory, and Observer Patterns**.  
 
-### ⭐ Basic Features  
+###  Basic Features  
 - Add a new task (description, start time, end time, priority).  
 - Remove an existing task.  
 - View all tasks sorted by start time.  
 - Validate tasks to prevent overlaps.  
 - Show error messages for invalid operations.  
 
-### 🚀 Key Features   
+###  Key Features   
 - Edit an existing task.  
 - Mark tasks as completed.  
 - View tasks by specific priority level.  
 
-### 🎯 Applied Design Patterns  
+###  Applied Design Patterns  
 1. **Singleton Pattern**  
    - `ScheduleManager` ensures only **one instance** manages all tasks.  
 
@@ -81,7 +81,7 @@ Implemented using **Singleton, Factory, and Observer Patterns**.
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 - **Language**: Java  
 - **Concepts**: OOP, Design Patterns, Console-based Applications  
 
