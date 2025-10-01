@@ -68,7 +68,7 @@ Implemented using **Singleton, Factory, and Observer Patterns**.
 - Mark tasks as completed.  
 - View tasks by specific priority level.  
 
-###  Applied Design Patterns  
+###  Design Patterns Applied
 1. **Singleton Pattern**  
    - `ScheduleManager` ensures only **one instance** manages all tasks.  
 
